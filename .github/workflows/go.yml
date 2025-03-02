@@ -1,2 +1,8 @@
-Vai construir.
+apt update && apt upgrade -y
+PKG Instalar Git -Y
+git clone https://github.com/mesuutt/sherlock.git
+cd sherlockgo mod init sherlock
+go get github.com/fatih/color
+go get github.com/spf13/cobrago build
+https://github.com/mesuutt/sherlock.gitVai construção
 ./Sherlock Fabiana Jaques
